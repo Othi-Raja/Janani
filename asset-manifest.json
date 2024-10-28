@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Janani/static/css/main.cb504c59.css",
+    "main.js": "/Janani/static/js/main.aa353676.js",
+    "static/js/453.3ad55f29.chunk.js": "/Janani/static/js/453.3ad55f29.chunk.js",
+    "index.html": "/Janani/index.html",
+    "main.cb504c59.css.map": "/Janani/static/css/main.cb504c59.css.map",
+    "main.aa353676.js.map": "/Janani/static/js/main.aa353676.js.map",
+    "453.3ad55f29.chunk.js.map": "/Janani/static/js/453.3ad55f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb504c59.css",
+    "static/js/main.aa353676.js"
+  ]
+}
